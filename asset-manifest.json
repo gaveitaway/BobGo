@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BobGo/static/css/main.6e50c0fb.css",
+    "main.js": "/BobGo/static/js/main.c2f6c1c5.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/BobGo/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/BobGo/index.html",
+    "main.6e50c0fb.css.map": "/BobGo/static/css/main.6e50c0fb.css.map",
+    "main.c2f6c1c5.js.map": "/BobGo/static/js/main.c2f6c1c5.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/BobGo/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e50c0fb.css",
+    "static/js/main.c2f6c1c5.js"
+  ]
+}

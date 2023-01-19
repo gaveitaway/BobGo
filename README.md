@@ -11,6 +11,12 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
   
+## 🧑‍🤝‍🧑 Member
+
+| ![](https://github.com/YeBeenJeon.png) | ![](https://github.com/soominkiminsoo.png) |
+| :-----------------------------------: | :-----------------------------------: |
+|           **전예빈**            |              **김민수**               |
+|             **Full-Stack**             |            **Full-Stack**             |
 
 </div>
 

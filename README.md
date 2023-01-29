@@ -13,7 +13,7 @@
   
 ## 🧑‍🤝‍🧑 Member
 
-| ![](https://github.com/YeBeenJeon.png) | ![](https://github.com/soominkiminsoo.png) |
+| ![](https://github.com/YeBeenJeon.png) | ![](https://github.com/geodo2.png) |
 | :-----------------------------------: | :-----------------------------------: |
 |           **전예빈**            |              **김민수**               |
 |             **Full-Stack**             |            **Full-Stack**             |
